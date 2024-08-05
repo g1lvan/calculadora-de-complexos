@@ -126,7 +126,7 @@
     },
     {
         "name": "HBO2",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/HBO2_logo.svg",
         "url": "https://abc.embedmax.site/hbo2/index.m3u8"
     },
     {
@@ -186,7 +186,7 @@
     },
     {
         "name": "Cinemax",
-        "image": "https://en.m.wikipedia.org/wiki/File:611-cinemax.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinemax.svg",
         "url": "https://abc.embedmax.site/cinemax/index.m3u8"
     }
 ]
