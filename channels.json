@@ -80,6 +80,11 @@
       "url": "https://abc.embedmax.site/espn4/index.m3u8"
    },
    {
+      "name": "GLOBO MG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg",
+      "url": "https://abc.embedmax.site/globoMG/tracks-v1a1/mono.m3u8"
+   },
+   {
       "name": "Universal Channel HD",
       "image": "https://imgur.com/VwFjFMO.png",
       "url": "http://dzcdn.vood.top:80/hls/742_.m3u8"
