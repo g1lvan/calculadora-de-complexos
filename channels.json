@@ -1,0 +1,192 @@
+[
+   {
+      "name": "Premiere HD",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://abc.embedmax.site/premiere1/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "name": "Premiere FHD",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/6a3cd02e803ddf024eb777f0101a2702/3.m3u8"
+   },
+   {
+      "name": "Premiere 2 HD",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://abc.embedmax.site/premiere2/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "name": "Premiere 3 HD",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://abc.embedmax.site/premiere3/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "name": "Premiere 4",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "name": "Sportv1 SD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
+      "url": "http://dzcdn.vood.top:80/hls/546_.m3u8"
+   },
+   {
+      "name": "Sportv1 HD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
+      "url": "https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "name": "Sportv1 FHD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
+      "url": "http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/6a3cd02e803ddf024eb777f0101a2702/23.m3u8"
+   },
+   {
+      "name": "Sportv2 SD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
+      "url": "http://dzcdn.vood.top:80/hls/551_.m3u8"
+   },
+   {
+      "name": "Sportv2 FHD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
+      "url": "https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "name": "Sportv3 SD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
+      "url": "http://dzcdn.vood.top:80/hls/556_.m3u8"
+   },
+   {
+      "name": "Sportv3 FHD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
+      "url": "https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "name": "ESPN SD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
+      "url": "https://cr7v.short.gy/manoiptvfree/ESPNSD/Index.m3u8"
+   },
+   {
+      "name": "ESPN HD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
+      "url": "https://cdn-4.nxplay.com.br/ESPN/index.m3u8"
+   },
+   {
+      "name": "ESPN FHD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
+      "url": "https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "name": "ESPN2 HD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
+      "url": "https://cdn-4.nxplay.com.br/ESPN_2/index.m3u8"
+   },
+   {
+      "name": "ESPN2 FHD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
+      "url": "http://cdnexpress.homelinux.net/live/47.m3u8"
+   },
+   {
+      "name": "ESPN3 HD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
+      "url": "https://cdn-4.nxplay.com.br/ESPN_3/index.m3u8"
+   },
+   {
+      "name": "ESPN4 SD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
+      "url": "https://cdn-4.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8"
+   },
+   {
+      "name": "Universal Channel HD",
+      "image": "https://imgur.com/VwFjFMO.png",
+      "url": "http://dzcdn.vood.top:80/hls/742_.m3u8"
+   },
+   {
+      "name": "Space SD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg",
+      "url": "http://hzcdn.vood.top:80/hls/705_.m3u8"
+   },
+   {
+      "name": "TNT",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png",
+      "url": "http://fzcdn.vood.top/hls/731_.m3u8"
+   },
+   {
+        "name": "History",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",
+        "url": "https://abc.embedmax.site/history/index.m3u8"
+    },
+    {
+        "name": "History 2",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",
+        "url": "https://abc.embedmax.site/history2/index.m3u8"
+    },
+    {
+        "name": "HBO",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",
+        "url": "https://abc.embedmax.site/hbo/index.m3u8"
+    },
+    {
+        "name": "HBO2",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",
+        "url": "https://abc.embedmax.site/hbo2/index.m3u8"
+    },
+    {
+        "name": "HBO+",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
+        "url": "https://abc.embedmax.site/hboplus/index.m3u8"
+    },
+    {
+        "name": "HBO Xtreme",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg",
+        "url": "https://abc.embedmax.site/hboxtreme/index.m3u8"
+    },
+    {
+        "name": "HBO Signature",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg",
+        "url": "https://abc.embedmax.site/hbosignature/index.m3u8"
+    },
+    {
+        "name": "HBO Family",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",
+        "url": "https://abc.embedmax.site/hbofamily/index.m3u8"
+    },
+    {
+        "name": "Telecine Premium",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png",
+        "url": "https://abc.embedmax.site/tcpremium/index.m3u8"
+    },
+    {
+        "name": "Telecine Action",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Telecine_Action_%282019%29.svg",
+        "url": "https://abc.embedmax.site/tcaction/index.m3u8"
+    },
+    {
+        "name": "Telecine Pipoca",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Telecine_Pipoca_%282019%29.svg",
+        "url": "https://abc.embedmax.site/tcpipoca/index.m3u8"
+    },
+    {
+        "name": "Telecine Fun",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Telecine_Fun_%282019%29.svg",
+        "url": "https://abc.embedmax.site/tcfun/index.m3u8"
+    },
+    {
+        "name": "Telecine Touch",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Telecine_Touch_%282019%29.svg",
+        "url": "https://abc.embedmax.site/tctouch/index.m3u8"
+    },
+    {
+        "name": "Telecine Cult",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Cult_2019.png",
+        "url": "https://abc.embedmax.site/tccult/index.m3u8"
+    },
+    {
+        "name": "Megapix",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",
+        "url": "https://abc.embedmax.site/megapix/index.m3u8"
+    },
+    {
+        "name": "Cinemax",
+        "image": "https://pt.m.wikipedia.org/wiki/Ficheiro:Cinemax_LA.png",
+        "url": "https://abc.embedmax.site/cinemax/index.m3u8"
+    }
+]
