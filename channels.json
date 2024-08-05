@@ -58,26 +58,11 @@
       "name": "Sportv3 FHD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
       "url": "https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8"
-   },
-   {
-      "name": "ESPN SD",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
-      "url": "https://cr7v.short.gy/manoiptvfree/ESPNSD/Index.m3u8"
-   },
-   {
-      "name": "ESPN HD",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
-      "url": "https://cdn-4.nxplay.com.br/ESPN/index.m3u8"
-   },
+   },      
    {
       "name": "ESPN FHD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
       "url": "https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8"
-   },
-   {
-      "name": "ESPN2 HD",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
-      "url": "https://cdn-4.nxplay.com.br/ESPN_2/index.m3u8"
    },
    {
       "name": "ESPN2 FHD",
@@ -87,12 +72,12 @@
    {
       "name": "ESPN3 HD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
-      "url": "https://cdn-4.nxplay.com.br/ESPN_3/index.m3u8"
+      "url": "https://abc.embedmax.site/espn3/index.m3u8"
    },
    {
-      "name": "ESPN4 SD",
+      "name": "ESPN4 HD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
-      "url": "https://cdn-4.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8"
+      "url": "https://abc.embedmax.site/espn4/index.m3u8"
    },
    {
       "name": "Universal Channel HD",
