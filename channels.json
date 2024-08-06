@@ -109,6 +109,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",
         "url": "https://abc.embedmax.site/history2/index.m3u8"
     },
+   {
+      "name": "Warner Bros",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Warner_Bros._Television_2023_%28Alt%29.svg",
+      "url": "https://abc.embedmax.site/warnertv/index.m3u8"
+   },
     {
         "name": "HBO",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",
