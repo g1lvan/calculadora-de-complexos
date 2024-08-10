@@ -99,6 +99,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png",
       "url": "http://fzcdn.vood.top/hls/731_.m3u8"
    },
+      {
+      "name": "TNT Séries",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/TNT_Serie_Logo_2016.svg",
+      "url": "http://cdnexpress.homelinux.net/live/10.m3u8"
+   },
    {
         "name": "History",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",
