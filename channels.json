@@ -144,6 +144,11 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sony_Channel_Logo_2019.svg",
       "url": "https://abc.embedmax.site/sonychannel/tracks-v1a1/mono.m3u8"
    },
+      {
+      "name": "Paramount",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/1/1e/Paramount_Global.svg",
+      "url": "http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8"
+   },
     {
         "name": "HBO",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",
