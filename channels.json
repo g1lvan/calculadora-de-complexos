@@ -25,11 +25,6 @@
       "url": "https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8"
    },
    {
-      "name": "Sportv1 SD",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
-      "url": "http://dzcdn.vood.top:80/hls/546_.m3u8"
-   },
-   {
       "name": "Sportv1 HD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
       "url": "https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8"
@@ -40,19 +35,14 @@
       "url": "http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/6a3cd02e803ddf024eb777f0101a2702/23.m3u8"
    },
    {
-      "name": "Sportv2 SD",
+      "name": "Sportv2 HD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
-      "url": "http://dzcdn.vood.top:80/hls/551_.m3u8"
+      "url": "https://abc.embedmax.site/sportv2/index.m3u8"
    },
    {
       "name": "Sportv2 FHD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
       "url": "https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8"
-   },
-   {
-      "name": "Sportv3 SD",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
-      "url": "http://dzcdn.vood.top:80/hls/556_.m3u8"
    },
    {
       "name": "Sportv3 FHD",
@@ -62,7 +52,7 @@
    {
       "name": "ESPN FHD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
-      "url": "https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8"
+      "url": "https://new.embedflix.co/p2p/spn/chunks.m3u8"
    },
    {
       "name": "ESPN2 FHD",
@@ -78,6 +68,16 @@
       "name": "ESPN4 HD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
       "url": "https://abc.embedmax.site/espn4/index.m3u8"
+   },
+   {
+      "name": "ESPN5 HD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
+      "url": "https://abc.embedmax.site/espn5/index.m3u8"
+   },
+   {
+      "name": "ESPN6 HD",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
+      "url": "https://abc.embedmax.site/espn6/index.m3u8"
    },
    {
       "name": "GLOBO MG",
