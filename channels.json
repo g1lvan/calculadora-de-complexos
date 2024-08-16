@@ -95,9 +95,14 @@
       "url": "https://abc.embedmax.site/globoMG/tracks-v1a1/mono.m3u8"
    },
    {
+      "name": "24h",
+      "image": "https://pt.m.wikipedia.org/wiki/Ficheiro:The_Simpsons_yellow_logo.svg",
+      "url": "http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/710"
+   },
+   {
       "name": "Universal Channel HD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Universal_Channel_Brasil.svg",
-      "url": "http://dzcdn.vood.top:80/hls/742_.m3u8"
+      "url": "https://abc.embedmax.site/universaltv/index.m3u8"
    },
    {
       "name": "Space UHD",
