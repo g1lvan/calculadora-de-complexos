@@ -196,7 +196,7 @@
     },
     {
         "name": "Telecine Premium",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282019%29.svg",
         "url": "https://abc.embedmax.site/tcpremium/index.m3u8"
     },
     {
@@ -227,7 +227,7 @@
     {
         "name": "Megapix",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",
-        "url": "https://abc.embedmax.site/megapix/index.m3u8"
+        "url": "https://new.embedflix.co/p2p/megapix/chunks.m3u8"
     },
     {
         "name": "Cinemax",
