@@ -1,8 +1,8 @@
 [
    {
-      "name": "Premiere HD",
+      "name": "Premiere FHD",
       "image": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
-      "url": "https://abc.embedmax.site/premiere1/tracks-v1a1/mono.m3u8"
+      "url": "http://cdnexpress.homelinux.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/6a3cd02e803ddf024eb777f0101a2702/3.m3u8"
    },
    {
       "name": "Premiere FHD",
@@ -12,7 +12,12 @@
    {
       "name": "Premiere 2 HD",
       "image": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
-      "url": "https://abc.embedmax.site/premiere2/tracks-v1a1/mono.m3u8"
+      "url": "http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/14.m3u8"
+   },
+   {
+      "name": "Premiere 2 FHD",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",
+      "url": "https://new.embedflix.co/p2p/premier2/chunks.m3u8"
    },
    {
       "name": "Premiere 3 HD",
