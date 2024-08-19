@@ -122,7 +122,7 @@
       {
       "name": "TNT Séries",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/TNT_Serie_Logo_2016.svg",
-      "url": "http://cdnexpress.homelinux.net/live/10.m3u8"
+      "url": "https://new.embedflix.co/p2p/tntseries/chunks.m3u8"
    },
    {
         "name": "History",
