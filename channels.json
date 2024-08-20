@@ -42,7 +42,7 @@
    {
       "name": "Sportv1 HD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
-      "url": "https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8"
+      "url": "https://new.embedflix.co/p2p/sportv/chunks.m3u8"
    },
    {
       "name": "Sportv1 FHD",
@@ -52,22 +52,22 @@
    {
       "name": "Sportv2 HD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
-      "url": "https://abc.embedmax.site/sportv2/index.m3u8"
+      "url": "https://stream.embedflix.co/p2p/sportv2/chunks.m3u8"
    },
    {
       "name": "Sportv2 FHD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
-      "url": "https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8"
+      "url": "http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/28.m3u8"
    },
    {
       "name": "Sportv3 HD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
-      "url": "https://abc.embedmax.site/sportv3/index.m3u8"
+      "url": "https://new.embedflix.co/p2p/sportv3/chunks.m3u8"
    },
       {
       "name": "Sportv3 FHD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",
-      "url": "https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8"
+      "url": "http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/54.m3u8"
    },
    {
       "name": "ESPN FHD",
