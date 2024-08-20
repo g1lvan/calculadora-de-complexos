@@ -82,22 +82,17 @@
    {
       "name": "ESPN3 HD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
-      "url": "https://abc.embedmax.site/espn3/index.m3u8"
+      "url": "https://new.embedflix.co/p2p/spn3/chunks.m3u8"
    },
    {
       "name": "ESPN4 HD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
-      "url": "https://abc.embedmax.site/espn4/index.m3u8"
+      "url": "https://new.embedflix.co/p2p/spn4/chunks.m3u8"
    },
    {
-      "name": "ESPN5 HD",
+      "name": "ESPN5 FHD",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
-      "url": "https://abc.embedmax.site/espn5/index.m3u8"
-   },
-   {
-      "name": "ESPN6 HD",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
-      "url": "https://abc.embedmax.site/espn6/index.m3u8"
+      "url": "http://cdnexpress.homelinux.net/live/27.m3u8"
    },
    {
       "name": "GLOBO MG",
