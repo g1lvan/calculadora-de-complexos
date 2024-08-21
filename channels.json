@@ -142,7 +142,7 @@
    {
       "name": "Discovery Channel",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg",
-      "url": "https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8"
+      "url": "https://new.embedflix.co/p2p/discoverych/playlist.m3u8?wmsAuthSign=undefined"
    },
    {
       "name": "AXN",
