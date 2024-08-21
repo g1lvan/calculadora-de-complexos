@@ -157,7 +157,7 @@
    {
       "name": "National Geographic",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",
-      "url": "http://cdnexpress.homelinux.net/live/55.m3u8"
+      "url": "https://new.embedflix.co/p2p/nationg/playlist.m3u8?wmsAuthSign=undefined"
    },
    {
       "name": "Sony",
