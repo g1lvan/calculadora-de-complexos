@@ -137,7 +137,7 @@
       {
       "name": "Star Channel",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg",
-      "url": "http://cdnexpress.homelinux.net:80/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/18.m3u8"
+      "url": "http://cdnexpress.homelinux.net/live/18.m3u8"
    },
       {
       "name": "Discovery Channel",
@@ -147,22 +147,22 @@
    {
       "name": "AXN",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/AXN_logo_%282015%29.svg",
-      "url": "https://abc.embedmax.site/axn/tracks-v1a1/mono.m3u8"
+      "url": "http://cdnexpress.homelinux.net/live/26.m3u8"
    },
    {
       "name": "National Geographic",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",
-      "url": "https://abc.embedmax.site/nationalgeographic/tracks-v1a1/mono.m3u8"
+      "url": "http://cdnexpress.homelinux.net/live/55.m3u8"
    },
    {
       "name": "Sony",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sony_Channel_Logo_2019.svg",
-      "url": "https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8"
+      "url": "http://cdnexpress.homelinux.net/live/60.m3u8"
    },
       {
       "name": "Paramount",
       "image": "https://upload.wikimedia.org/wikipedia/pt/1/1e/Paramount_Global.svg",
-      "url": "https://abc.embedmax.site/paramountnetwork/index.m3u8"
+      "url": "http://cdnexpress.homelinux.net/live/63.m3u8"
    },
       {
       "name": "Fox",
@@ -190,14 +190,24 @@
         "url": "https://new.embedflix.co/p2p/hboextreme/chunks.m3u8"
     },
     {
+        "name": "HBO Signature",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg",
+        "url": "http://cdnexpress.homelinux.net/live/37.m3u8"
+    },
+    {
         "name": "HBO Family",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",
         "url": "https://new.embedflix.co/p2p/hbofamily/chunks.m3u8"
     },
+       {
+        "name": "HBO Mundi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg",
+        "url": "http://cdnexpress.homelinux.net/live/38.m3u8"
+    },
     {
         "name": "Telecine Premium",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282019%29.svg",
-        "url": "http://fzcdn.vood.top/hls/633_.m3u8"
+        "url": "http://cdnexpress.homelinux.net/live/15.m3u8"
     },
     {
         "name": "Telecine Action",
@@ -232,6 +242,6 @@
     {
         "name": "Cinemax",
         "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinemax.svg",
-        "url": "https://abc.embedmax.site/cinemax/index.m3u8"
+        "url": "http://cdnexpress.homelinux.net/live/42.m3u8"
     }
 ]
