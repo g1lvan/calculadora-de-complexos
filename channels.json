@@ -114,7 +114,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png",
       "url": "http://fzcdn.vood.top/hls/731_.m3u8"
    },
-      {
+   {
       "name": "TNT Séries",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/TNT_Serie_Logo_2016.svg",
       "url": "https://new.embedflix.co/p2p/tntseries/chunks.m3u8"
@@ -134,12 +134,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Warner_Bros._Television_2023_%28Alt%29.svg",
       "url": "https://new.embedflix.co/p2p/warnerchannel/chunks.m3u8"
    },
-      {
+   {
       "name": "Star Channel",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg",
       "url": "http://cdnexpress.homelinux.net/live/18.m3u8"
    },
-      {
+   {
       "name": "Discovery Channel",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg",
       "url": "https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8"
@@ -149,7 +149,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/AXN_logo_%282015%29.svg",
       "url": "http://cdnexpress.homelinux.net/live/26.m3u8"
    },
-       {
+   {
         "name": "A&E",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/A%26E-Network-Logo.svg",
         "url": "http://cdnexpress.homelinux.net/live/74.m3u8"
@@ -164,12 +164,12 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sony_Channel_Logo_2019.svg",
       "url": "http://cdnexpress.homelinux.net/live/60.m3u8"
    },
-      {
+   {
       "name": "Paramount",
       "image": "https://upload.wikimedia.org/wikipedia/pt/1/1e/Paramount_Global.svg",
       "url": "http://cdnexpress.homelinux.net/live/63.m3u8"
    },
-      {
+   {
       "name": "Fox",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/FOX_wordmark-red.svg",
       "url": "https://new.embedflix.co/p2p/fx/chunks.m3u8"
@@ -204,7 +204,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",
         "url": "https://new.embedflix.co/p2p/hbofamily/chunks.m3u8"
     },
-       {
+    {
         "name": "HBO Mundi",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg",
         "url": "http://cdnexpress.homelinux.net/live/38.m3u8"
@@ -243,6 +243,11 @@
         "name": "Megapix",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",
         "url": "https://new.embedflix.co/p2p/megapix/chunks.m3u8"
+    },
+    {
+        "name": "AMC",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",
+        "url": "http://cdnexpress.homelinux.net/live/372.m3u8"
     },
     {
         "name": "Cinemax",
