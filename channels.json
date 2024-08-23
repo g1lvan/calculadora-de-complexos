@@ -95,11 +95,6 @@
       "url": "http://cdnexpress.homelinux.net/live/27.m3u8"
    },
    {
-      "name": "Paramount +",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png",
-      "url": "https://new.embedflix.co/p2p/paramount/chunks.m3u8"
-   },
-   {
       "name": "GLOBO MG",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg",
       "url": "https://new.embedflix.co/p2p/globominas/chunks.m3u8"
